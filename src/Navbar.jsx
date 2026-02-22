@@ -9,7 +9,7 @@ function ColorSchemesExample() {
       <Navbar bg="white" data-bs-theme="white">
         <Container>
             <div >
-            <Link to = '/home'> <img style={{height : 100 , width:100 , marginLeft:'-100px' }} src='H & M.png' alt = ''></img></Link>  
+            <Link to = '/content'> <img style={{height : 100 , width:100 , marginLeft:'-100px' }} src='H & M.png' alt = ''></img></Link>  
             </div>
           {/* <Navbar.Brand href="#home">Navbar</Navbar.Brand> */}
           <Nav style={{marginLeft:'50px'}} className="me-auto">

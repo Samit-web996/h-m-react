@@ -8,7 +8,7 @@ function Men() {
     <div>
       <Navbar/>
     </div>
-    <div><h1>this is a Men</h1></div>
+    <div><h1>This is a Men Section</h1></div>
   </>
   )
 }

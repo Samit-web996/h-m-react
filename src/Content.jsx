@@ -3,7 +3,8 @@ import './content.css'
 import Navbar from './Navbar'
 
 function Content() {
-  return (<>
+  return (
+    <>
     <div>
       <Navbar/>
     </div>
